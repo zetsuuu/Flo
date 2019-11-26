@@ -1,11 +1,11 @@
 {
-  "name": "discord-bot",
-  "productName": "Discord Bot - Controls",
+  "name": "Flo",
+  "productName": "NvR Discord",
   "version": "0.1.0",
-  "description": "Discord Bot - Controls",
+  "description": "NvR Discord",
   "main": "bot.js",
   "author": {
-    "name": "DBC"
+    "name": "uul"
   },
   "scripts": {
     "start": "node bot"
