@@ -1,8 +1,12 @@
 {
-  "name": "Flo",
-  "description": "Very very mantap",
+  "name": "discord-bot",
+  "productName": "Discord Bot - Controls",
   "version": "0.1.0",
+  "description": "Discord Bot - Controls",
   "main": "bot.js",
+  "author": {
+    "name": "DBC"
+  },
   "scripts": {
     "start": "node bot"
   },
